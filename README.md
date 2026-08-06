@@ -36,7 +36,26 @@
 ---
 
 # 🚀 About Me
+---
+ ☕ Advanced Java
+- 🧩 Data Structures & Algorithms
+- 🛡️ SOC Monitoring & Incident Response
+- 🔍 Web Application Penetration Testing
+- 🐧 Linux Administration
+- 📊 SIEM Fundamentals
 
+
+# 🌱 Currently Learning# 
+🎯 Current Focus
+
+- 🛡️ Building **SmartDefend AI**
+- 🔐 Practicing VAPT Labs
+- ☕ Solving Java DSA problems
+- 🌐 Developing Full-Stack Web Applications
+- 🚀 Building a strong GitHub portfolio
+
+-
+---
 ```java
 class Sheshak {
 
