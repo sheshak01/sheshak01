@@ -5,29 +5,157 @@
 <h1 align="center">Hi 👋, I'm Sheshak</h1>
 
 <h3 align="center">
-Cybersecurity Student • SOC Analyst • Ethical Hacker • Java Developer
+🛡️ Cybersecurity Student • SOC Analyst • Ethical Hacker • Java Developer
 </h3>
 
 <p align="center">
-Passionate about Cybersecurity, SOC Operations, VAPT, Secure Web Development and Continuous Learning.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF66&center=true&vCenter=true&width=800&lines=Cybersecurity+Student;SOC+Analyst;Ethical+Hacker;Java+Developer;Python+Developer;Kali+Linux+Enthusiast;Always+Learning+Something+New" />
 </p>
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
-- 🎓 Cybersecurity Student
-- 🛡️ Aspiring SOC Analyst
-- 💻 Ethical Hacking & VAPT Enthusiast
-- ☕ Java Developer
-- 🐍 Python Programmer
-- 🐧 Kali Linux User
-- 🌱 Currently learning Advanced Penetration Testing
-- 📫 Email: **sheshak1006@gmail.com**
+```java
+class Sheshak {
+
+    String role = "Cybersecurity Student";
+    String focus = "SOC Analyst";
+
+    String[] skills = {
+        "Ethical Hacking",
+        "VAPT",
+        "Java",
+        "Python",
+        "Linux",
+        "Network Security"
+    };
+
+    String currentlyLearning = "Advanced Penetration Testing";
+
+    String goal = "Become a Professional Cybersecurity Engineer";
+}
+```
 
 ---
 
-## 🌐 Connect With Me
+# 💻 Tech Stack
+
+### Languages
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=java"/>
+
+<img src="https://skillicons.dev/icons?i=python"/>
+
+<img src="https://skillicons.dev/icons?i=c"/>
+
+<img src="https://skillicons.dev/icons?i=cpp"/>
+
+<img src="https://skillicons.dev/icons?i=javascript"/>
+
+<img src="https://skillicons.dev/icons?i=html"/>
+
+<img src="https://skillicons.dev/icons?i=css"/>
+
+</p>
+
+---
+
+### Frameworks & Tools
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=git"/>
+
+<img src="https://skillicons.dev/icons?i=github"/>
+
+<img src="https://skillicons.dev/icons?i=vscode"/>
+
+<img src="https://skillicons.dev/icons?i=linux"/>
+
+<img src="https://skillicons.dev/icons?i=flask"/>
+
+<img src="https://skillicons.dev/icons?i=mysql"/>
+
+</p>
+
+---
+
+# 🔐 Cybersecurity Toolkit
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Kali%20Linux-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Nmap-00599C?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Metasploit-2E3440?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Hydra-111111?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/SQLMap-CC0000?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Gobuster-555555?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Bettercap-009688?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/John%20The%20Ripper-444444?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/FFUF-000000?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/OWASP%20ZAP-00549E?style=for-the-badge"/>
+
+</p>
+
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=sheshak01&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sheshak01&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=sheshak01&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sheshak01&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+| Project | Description |
+|----------|-------------|
+| 🛡 SmartDefend AI | Intelligent SOC Alert Triage & Auto Response System |
+| 💈 Online Barber Booking | Modern appointment booking web application |
+| 🎨 ASCII Portrait Generator | Convert images into high-quality ASCII and SVG art |
+| ☕ Java DSA | Data Structures and Algorithms practice repository |
+| 🔐 VAPT Labs | Hands-on penetration testing labs using Kali Linux |
+
+---
+
+# 🌐 Connect With Me
 
 <p align="center">
 
@@ -43,68 +171,10 @@ Passionate about Cybersecurity, SOC Operations, VAPT, Secure Web Development and
 
 ---
 
-## 💻 Languages & Technologies
+<div align="center">
 
-<p align="center">
+## ⭐ Thanks for Visiting!
 
-<img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,html,css,flask,git,github,linux,bash,vscode,mysql"/>
+### "Learning Never Stops. Keep Building. Keep Securing."
 
-</p>
-
----
-
-## 🛡️ Cybersecurity Toolkit
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Kali_Linux-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white"/>
-<img src="https://img.shields.io/badge/Nmap-00599C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge"/>
-
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=sheshak01&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sheshak01&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=sheshak01&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sheshak01&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-
-## 🚀 Featured Projects
-
-| Project | Description |
-|----------|-------------|
-| 🛡 **SmartDefend AI** | Intelligent SOC Alert Triage & Auto Response |
-| 💈 **Online Barber Booking System** | Full-stack appointment booking web application |
-| 🎨 **ASCII Portrait Generator** | Python tool to convert portraits into artistic ASCII and SVG |
-
----
-
-<h3 align="center">
-⭐ Thanks for visiting my profile ⭐
-</h3>
+</div>
