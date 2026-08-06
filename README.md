@@ -81,26 +81,27 @@ class Sheshak {
 
 # 💻 Tech Stack
 
-### Languages
+### 👨‍💻 Programming Languages
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=java"/>
-
-<img src="https://skillicons.dev/icons?i=python"/>
-
-<img src="https://skillicons.dev/icons?i=c"/>
-
-<img src="https://skillicons.dev/icons?i=cpp"/>
-
-<img src="https://skillicons.dev/icons?i=javascript"/>
-
-<img src="https://skillicons.dev/icons?i=html"/>
-
-<img src="https://skillicons.dev/icons?i=css"/>
-
+<img src="https://skillicons.dev/icons?i=java,python,c,cpp,javascript" />
 </p>
 
+---
+
+### 🌐 Web Development
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,flask,mysql" />
+</p>
+
+---
+
+### ⚙️ Development Tools
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,bash" />
+</p>
 ---
 
 ### Frameworks & Tools
@@ -131,29 +132,29 @@ class Sheshak {
 
 <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Nmap-00599C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Nmap-004170?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/Metasploit-2E3440?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Hydra-111111?style=for-the-badge"/>
-
 <img src="https://img.shields.io/badge/SQLMap-CC0000?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/FFUF-000000?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/Gobuster-555555?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Bettercap-009688?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/John%20The%20Ripper-444444?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/FFUF-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Hydra-111111?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/OWASP%20ZAP-00549E?style=for-the-badge"/>
 
 </p>
-
 ---
+# 📜 Certifications
+
+- ✅ Cisco Networking Essentials
+- 🎯 Preparing for eJPT
+- 🎯 Planning Security+ (Future)
 
 # 📊 GitHub Statistics
 
