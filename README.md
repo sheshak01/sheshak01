@@ -11,7 +11,28 @@
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF66&center=true&vCenter=true&width=800&lines=Cybersecurity+Student;SOC+Analyst;Ethical+Hacker;Java+Developer;Python+Developer;Kali+Linux+Enthusiast;Always+Learning+Something+New" />
 </p>
+<p align="center">
+  <img src="assets/banner.png" alt="Sheshak Banner" width="100%">
+</p>
 
+<h1 align="center">Hi 👋, I'm Sheshak</h1>
+
+<h3 align="center">
+🛡️ Cybersecurity Student • SOC Analyst • Ethical Hacker • Java Developer
+</h3>
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF66&center=true&vCenter=true&width=800&lines=Cybersecurity+Student;SOC+Analyst;Ethical+Hacker;Java+Developer;Python+Developer;Kali+Linux+Enthusiast;Always+Learning+Something+New" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Cybersecurity-Student-00C853?style=for-the-badge&logo=hackthebox&logoColor=white" />
+  <img src="https://img.shields.io/badge/SOC-Analyst-E53935?style=for-the-badge&logo=securityscorecard&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ethical-Hacker-1565C0?style=for-the-badge&logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kali-Linux-000000?style=for-the-badge&logo=kalilinux&logoColor=white" />
+</p>
+
+---
 ---
 
 # 🚀 About Me
