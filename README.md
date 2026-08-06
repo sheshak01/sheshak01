@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.png" alt="Banner" width="100%">
+  <img src="assets/banner.png" alt="Sheshak Banner" width="100%">
 </p>
 
 <h1 align="center">Hi 👋, I'm Sheshak</h1>
@@ -9,7 +9,7 @@ Cybersecurity Student • SOC Analyst • Ethical Hacker • Java Developer
 </h3>
 
 <p align="center">
-Passionate about Cybersecurity, VAPT, SOC Operations, Secure Web Development and Continuous Learning.
+Passionate about Cybersecurity, SOC Operations, VAPT, Secure Web Development and Continuous Learning.
 </p>
 
 ---
@@ -17,8 +17,8 @@ Passionate about Cybersecurity, VAPT, SOC Operations, Secure Web Development and
 ## 🚀 About Me
 
 - 🎓 Cybersecurity Student
-- 🛡️ SOC Analyst Enthusiast
-- 💻 Ethical Hacking & VAPT
+- 🛡️ Aspiring SOC Analyst
+- 💻 Ethical Hacking & VAPT Enthusiast
 - ☕ Java Developer
 - 🐍 Python Programmer
 - 🐧 Kali Linux User
@@ -58,13 +58,9 @@ Passionate about Cybersecurity, VAPT, SOC Operations, Secure Web Development and
 <p align="center">
 
 <img src="https://img.shields.io/badge/Kali_Linux-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/Nmap-00599C?style=for-the-badge"/>
-
 <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge"/>
-
 <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge"/>
-
 <img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge"/>
 
 </p>
@@ -75,9 +71,9 @@ Passionate about Cybersecurity, VAPT, SOC Operations, Secure Web Development and
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sheshak01&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=sheshak01&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sheshak01&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sheshak01&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -99,44 +95,16 @@ Passionate about Cybersecurity, VAPT, SOC Operations, Secure Web Development and
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=sheshak01&theme=tokyonight&no-frame=true&row=1&column=7"/>
-
-</p>
-
----
-
-## 👀 Profile Visitors
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=sheshak01&label=Profile%20Views&color=00ff66&style=for-the-badge"/>
-
-</p>
-
----
-
 ## 🚀 Featured Projects
 
 | Project | Description |
 |----------|-------------|
-| 🛡 SmartDefend AI | Intelligent SOC Alert Triage & Auto Response |
-| 💈 Online Barber Booking | Appointment Booking Web Application |
-| 🎨 ASCII Portrait Generator | Python-based Image to ASCII Converter |
-
----
-
-## 💡 Quote
-
-> "Security is a journey, not a destination."
+| 🛡 **SmartDefend AI** | Intelligent SOC Alert Triage & Auto Response |
+| 💈 **Online Barber Booking System** | Full-stack appointment booking web application |
+| 🎨 **ASCII Portrait Generator** | Python tool to convert portraits into artistic ASCII and SVG |
 
 ---
 
 <h3 align="center">
-
 ⭐ Thanks for visiting my profile ⭐
-
 </h3>
